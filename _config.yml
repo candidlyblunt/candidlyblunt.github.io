@@ -1,0 +1,12 @@
+# Site settings
+title: "candidly blunt."
+#email: your-email@domain.com
+description: "making sense of the world, one day at a time."
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://candidlyblunt.github.io" # the base hostname & protocol for your site
+#twitter_username: jekyllrb
+#github_username:  jekyll
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
