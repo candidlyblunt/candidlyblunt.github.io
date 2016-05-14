@@ -7,18 +7,18 @@ categories: poems
 
 Wildfire of fear spreads, <br />
 burning dreams like helpless hay,<br />
-Paralyzed we watch,<br />
+paralyzed we watch,<br />
 as listless life drifts away…<br />
 
 Dream, you do, <br />
-Work, you don't.<br />
+work, you don't.<br />
 Cry, you do, <br />
-Help you don't. <br />
+help you don't. <br />
 
 The memory of failure; <br/>
-The trails of tears across the cheek <br/>
-The fear of fear itself <br/>
-Keeps you from what you seek! <br/>
+The trails of tears across the cheek. <br/>
+The fear of fear itself, <br/>
+keeps you from what you seek! <br/>
 
 Failing at failing, 
 we sleep cozy at night, 
@@ -31,6 +31,8 @@ the limitless, formless, fearless you?<br />
 The one that falls, <br />
 only to rise from its ashes,<br />
 unbound and carefree?<br />
+
+
 
 <a href="https://twitter.com/share" class="twitter-share-button" data-size="large" data-count="none" data-via="siri_r" data-hashtags="CandidlyBlunt" >Tweet</a> <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
 
