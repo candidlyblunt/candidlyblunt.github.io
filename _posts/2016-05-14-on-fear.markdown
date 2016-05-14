@@ -1,43 +1,36 @@
 ---
 layout: post
-title:  Be Happy! 
-date:   2015-11-1 21:28:12
+title:  On Fear
+date:   2016-05-14 16:59:12
 categories: poems
 ---
 
+Wildfire of fear spreads, <br />
+burning dreams like helpless hay,<br />
+Paralyzed we watch,<br />
+as listless life drifts away…<br />
 
-Remember that TV commercial,  <br />
-where your dreams are shown,  <br />
-trapped in a can of orange soda? 
+Dream, you do, <br />
+Work, you don't.<br />
+Cry, you do, <br />
+Help you don't. <br />
 
+The memory of failure; <br/>
+The trails of tears across the cheek <br/>
+The fear of fear itself <br/>
+Keeps you from what you seek! <br/>
 
-No matter how much you have,  <br />
-you are asked to "stay hungry" for more,  <br />
-no life ever fulfilled,  <br />
-no life ever complete.. <br />
+Failing at failing, 
+we sleep cozy at night, 
+dreaming of a better tomorrow,
+as today slips out of sight.
 
+Do you really know yourself?<br />
+the limitless, formless, fearless you?<br />
 
-Are you happy?  <br />
-Don't look around for cues, peek inside.  <br />
-Don't deny yourself the happiness of being happy,  <br />
-the happiness of being YOU. <br />
-
-
-Be not afraid to smile,  <br />
-for happiness does not mark the death of ambition. <br />
-Take time to look at how far you've come,  <br />
-how you became a better version of yourself, <br />
-say "thank you" to yourself (finally)!  <br />
-
-
-Be happy, make happy, do happy, stay happy. <br />
-
-
-
-
-
-
-
+The one that falls, <br />
+only to rise from its ashes,<br />
+unbound and carefree?<br />
 
 <a href="https://twitter.com/share" class="twitter-share-button" data-size="large" data-count="none" data-via="siri_r" data-hashtags="CandidlyBlunt" >Tweet</a> <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
 
