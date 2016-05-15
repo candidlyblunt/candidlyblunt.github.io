@@ -1,2 +1,2 @@
-# [candidlyblunt.github.io](http://candidlyblunt.github.io)
+# [www.candidly-blunt.com](http://www.candidly-blunt.com/)
 a personal blog
