@@ -1,7 +1,7 @@
 # Site settings
 title: "candidly blunt."
 #email: your-email@domain.com
-description: "making sense of the world, one day at a time. copy"
+description: "making sense of the world, one day at a time."
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://candidly-blunt.com" # the base hostname & protocol for your site
 #twitter_username: jekyllrb
