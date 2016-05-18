@@ -11,8 +11,8 @@ I play your games, <br/>
 hoping to lose my way.  <br/>
 
 For I cannot seek the unknown,  <br/>
-till you bring it to life, <br/>
-for me it does not exist,  <br/>
+till you bring it to life. <br/>
+For it does not exist,  <br/>
 till I go through this strife. <br/>
 
 So come, <br/>
