@@ -6,7 +6,7 @@ weight : 3
 ---
 
 <div>
-<img src="https://static.pexels.com/photos/96938/pexels-photo-96938.jpeg">
+<img src="https://static.pexels.com/photos/4067/animal-pet-cute-cat.jpg">
 </div>
 
 <br/>
