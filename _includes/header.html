@@ -14,11 +14,15 @@
       </a>
 
       <div class="trigger">
-        {% for page in site.pages %}
-          {% if page.title %}
-          <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+       {% for weight in (1..15)%} 
+        {% for page in site.pages%} 
+          {% if page.weight == weight %}
+            {% if page.title %}
+            <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+           {% endif %}
           {% endif %}
         {% endfor %}
+      {% endfor %}
       </div>
     </nav>
 

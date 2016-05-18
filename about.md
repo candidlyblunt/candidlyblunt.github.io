@@ -2,6 +2,7 @@
 layout: page
 title: about
 permalink: /about/
+weight : 3
 ---
 
 Candidly Blunt is a blog to channelize my thoughts about topics ranging from life, politics, lifestyle, down to the mundane. This blog is an outcome of various conversations I have with my family, friends, and more importantly, with myself. 

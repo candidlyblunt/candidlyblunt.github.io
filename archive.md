@@ -2,6 +2,7 @@
 layout: page
 title: archive
 permalink: /archive/
+weight : 2
 ---
 
 <section id="archive">
