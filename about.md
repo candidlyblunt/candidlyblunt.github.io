@@ -6,10 +6,9 @@ weight : 3
 ---
 
 <div>
-<img src="https://static.pexels.com/photos/97314/pexels-photo-97314.jpeg">
+<img src="https://static.pexels.com/photos/96938/pexels-photo-96938.jpeg">
 </div>
 
-<br/>
 <br/>
 <br/>
 Candidly Blunt is a blog to channelize my thoughts about topics ranging from life, politics, lifestyle, down to the mundane. This blog is an outcome of various conversations I have with my family, friends, and more importantly, with myself. 
