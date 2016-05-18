@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  On Seeking
-date:   2016-05-13 20:00:12
+date:   2016-05-18 16:02:10
 categories: poems
 ---
 
