@@ -5,8 +5,8 @@ permalink: /about/
 weight : 3
 ---
 
-<div>
-<img src="https://static.pexels.com/photos/4067/animal-pet-cute-cat.jpg">
+<div class="home">
+<img src="https://static.pexels.com/photos/38129/pexels-photo-38129.jpeg" style="width:600px;height:250px;">
 </div>
 
 <br/>
