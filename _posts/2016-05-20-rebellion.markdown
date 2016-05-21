@@ -26,4 +26,4 @@ it tells me it's "sorry" for my loss. <br/>
 Humble water is boiled and added, <br/>
 no questions asked, <br/>
 as I regain control of the day,<br/>
-and contemplate - will this last?<br/>
+I contemplate - will this last?<br/>
