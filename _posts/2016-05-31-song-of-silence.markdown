@@ -12,6 +12,7 @@ which flows like a gentle stream,<br/>
 yet is still like a humid summer day, <br/>
 is my companion.<br/>
 
+ 
 
 In the melody of its nothingness, <br/>
 I listen to my inner chatter, <br/>
@@ -19,6 +20,7 @@ as it watches over me,<br/>
 completing my notes,<br/>
 holding my dreams, <br/>
 lest they should scatter. <br/>
+
 
 
 I look around for myself, <br/>
@@ -31,6 +33,7 @@ which exists all the time, <br/>
 yet not existing at all, <br/>
 this song plays on, <br/>
 yet is not heard.<br/>
+
 
 
 This unchanging song, <br/>
