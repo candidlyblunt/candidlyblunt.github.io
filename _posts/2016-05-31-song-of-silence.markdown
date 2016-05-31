@@ -20,9 +20,9 @@ as it watches over me,<br/>
 completing my notes,<br/>
 holding my dreams, <br/>
 lest they should scatter. <br/>
-
-
-
+<br/>
+<br/>
+<br/>
 I look around for myself, <br/>
 as this song continues to play-<br/>
 ignored and forgotten.<br/>
@@ -33,9 +33,9 @@ which exists all the time, <br/>
 yet not existing at all, <br/>
 this song plays on, <br/>
 yet is not heard.<br/>
-
-
-
+<br/>
+<br/>
+<br/>
 This unchanging song, <br/>
 this omnipresent hymn, <br/>
 truly listens to me,<br/>
