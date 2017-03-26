@@ -18,9 +18,7 @@ weight : 1
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}" style="font-family: 'SpecialElite';">{{ post.title }}</a>
         </h2>
-          <article class="post-content">{{ post.content | truncatewords:25}}</article> <br/>
+          <article class="post-content">{{ post.content | truncatewords:25}} <br/>
            <a href="{{ post.url }}">Read more...</a>
       
     {% endfor %}
-  </ul>
-</div>
