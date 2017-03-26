@@ -20,8 +20,8 @@ weight : 1
         </h2>
           <a class="post-content">
          {{ post.content | truncatewords:25}}</a><br>
-           <a href="{{ post.url }}">Read more...</a><br><br>   
-     </li>
+           <a href="{{ post.url }}">Read more...</a></li><br><br>   
+     
     {% endfor %}
 
   </ul>
