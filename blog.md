@@ -11,6 +11,7 @@ weight : 1
 <div class="home">
   <h1 class="page-heading">Posts</h1>
   <ul class="post-list">
+  
     {% for post in site.posts %}
       <li>
         <span class="post-meta" style="font-family: 'SpecialElite';">{{ post.date | date: "%b %-d, %Y" }}</span>
@@ -18,12 +19,10 @@ weight : 1
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}" style="font-family: 'SpecialElite';">{{ post.title }}</a>
         </h2>
           <article class="post-content">
-         {{ post.content | truncatewords:25}}<br>
-           <a href="{{ post.url }}">Read more...</a><br><br>
-          <!-- </article>
-      </li>
+         {{ post.content | truncatewords:25}}</article><br>
+           <a href="{{ post.url }}">Read more...</a><br><br>   
+     </li>
     {% endfor %}
+
   </ul>
 </div>
-
- -->
