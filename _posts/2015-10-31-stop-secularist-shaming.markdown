@@ -20,5 +20,5 @@ Let's stop secularist-shaming.
 
  
 
-
+&copy; Candidly Blunt, 2015
 

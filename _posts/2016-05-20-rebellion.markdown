@@ -27,3 +27,5 @@ Humble water is boiled and added, <br/>
 no questions asked, <br/>
 as I regain control of the day,<br/>
 I contemplate - will this last?<br/>
+
+&copy; Candidly Blunt, 2016

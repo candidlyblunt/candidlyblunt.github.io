@@ -29,3 +29,6 @@ You can change this now, <br/>
 you can be everything, <br/>
 there is no play of "luck",<br/>
 everyone can be the king! <br/>
+
+
+&copy; Candidly Blunt, 2016

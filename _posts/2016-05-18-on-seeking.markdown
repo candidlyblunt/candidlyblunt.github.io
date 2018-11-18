@@ -21,3 +21,4 @@ entertain me with your tricks, <br/>
 drown me in your unknown-ness,  <br/>
 immerse me in this styx. <br/>
 
+&copy; Candidly Blunt, 2016

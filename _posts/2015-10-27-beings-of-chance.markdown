@@ -21,3 +21,4 @@ All your worries look pretty insignificant, don't they??
 
 
 
+&copy; Candidly Blunt, 2015

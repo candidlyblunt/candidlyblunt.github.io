@@ -33,3 +33,4 @@ say "thank you" to yourself (finally)!  <br />
 Be happy, make happy, do happy, stay happy. <br />
 
 
+&copy; Candidly Blunt, 2015

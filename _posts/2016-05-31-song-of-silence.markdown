@@ -42,3 +42,5 @@ It caresses my fears,<br/>
 as I slowly give-in,<br/>
 and see myself in its nothingness.<br/>
 
+
+&copy; Candidly Blunt, 2016
