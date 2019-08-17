@@ -1,2 +1,2 @@
-# [www.candidly-blunt.com](http://www.candidly-blunt.com/)
+# [www.candidlyblunt.com](http://www.candidlblunt.com/)
 a personal blog
